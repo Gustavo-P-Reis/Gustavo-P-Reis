@@ -36,9 +36,9 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Selecao Personagens Marvel]([https://github.com/VariableBee/seaborn-data-visualization](https://gustavo-p-reis.github.io/selecao-personagens-marvel/)](https://github.com/Gustavo-P-Reis/selecao-personagens-marvel))
+- [Selecao Personagens Marvel](https://github.com/Gustavo-P-Reis/selecao-personagens-marvel)
 - [Projeto GTA](https://github.com/Gustavo-P-Reis/projeto-gta)
-- [Iceberg Figures]([https://github.com/VariableBee/COVID_19_DASHBOARD](https://github.com/Gustavo-P-Reis/Iceberg-Figures))
+- [Iceberg Figures](https://github.com/Gustavo-P-Reis/selecao-personagens-marvel)
 
 <!-- GIF -->
 <p align="left">
