@@ -33,7 +33,7 @@
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-P-Reis&show_icons=true&theme=gotham)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee)](https://github.com/variablebee/github-readme-stats)
+
 
 <!-- Portfolio -->
 ## Portfolio:
