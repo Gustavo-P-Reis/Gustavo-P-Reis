@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Gustavo! A passionate Computer Science student from Brazil
 
-  - 🌱 I am currently studying Frontend and pursuing higher education in Computer Science <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I am currently studying Frontend and pursuing higher education in Computer Science <img align="center" alt="html5" src="[https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqG895ZprrB1T3wgg96fQdvtpuSm73d3TlHK7jStTr2TvOFHsvgE2K2kCtpaaxbp4FUt8&usqp=CAU)" />
 
   - 🔭 I'm looking for my first job opportunity. My dream is to work abroad
 </p>
