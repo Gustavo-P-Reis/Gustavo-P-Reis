@@ -44,6 +44,7 @@
 - [Selecao Personagens Marvel](https://github.com/Gustavo-P-Reis/selecao-personagens-marvel)
 - [Projeto GTA](https://github.com/Gustavo-P-Reis/projeto-gta)
 - [Iceberg Figures](https://github.com/Gustavo-P-Reis/selecao-personagens-marvel)
+- [Landing Page](https://github.com/Gustavo-P-Reis/landing-page)
 
 <!-- GIF -->
 <p align="left">
