@@ -34,6 +34,8 @@
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-P-Reis&show_icons=true&theme=gotham)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Spotify -->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pophc24qt2e3xzccsttbvfmaga&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
