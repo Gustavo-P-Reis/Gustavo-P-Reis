@@ -55,5 +55,9 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
+
+  <div align="center">
+    <img src="https//github.com/1999AZZAR/1999AZZAR/blog/main/resources/img/grid-snake.svg" alt="snake" /></a>
+  </div>
   
  
