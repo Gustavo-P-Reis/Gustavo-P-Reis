@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Gustavo! A passionate Computer Science student from Brazil
+  Hi 👋, I'm Gustavo! A Computer Science student passionate about programming.
 
   - 🌱 I am currently studying Frontend and pursuing higher education in Computer Science 
 
