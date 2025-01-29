@@ -36,7 +36,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Seleção-Personagens-Marvel]([https://github.com/VariableBee/seaborn-data-visualization](https://gustavo-p-reis.github.io/selecao-personagens-marvel/))
+- [Selecao Personagens Marvel](https://github.com/VariableBee/seaborn-data-visualization](https://gustavo-p-reis.github.io/selecao-personagens-marvel/))
 - [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
 - [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
 - [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
