@@ -6,11 +6,11 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+  Hi 👋, I'm Gustavo! A passionate Computer Science student from Brazil
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I am currently studying Frontend and pursuing higher education in Computer Science <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 I'm looking for my first job opportunity. My dream is to work abroad
 </p>
 
 <!-- Dropdown -->
