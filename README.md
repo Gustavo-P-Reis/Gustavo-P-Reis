@@ -48,7 +48,7 @@
 
 <!-- GIF -->
 <p align="left">
-<img src = "https://github.com/user-attachments/assets/964ad82c-a397-4df4-8d5c-fe656d9cbc01](https://github.com/user-attachments/assets/b4907932-a235-49fa-a27e-bba4fb46b09f" alt = "imagem">
+  <img src = "https://github.com/user-attachments/assets/b4907932-a235-49fa-a27e-bba4fb46b09f" alt = "imagem">
 </p>
 
 
