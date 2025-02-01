@@ -48,7 +48,7 @@
 
 <!-- GIF -->
 <p align="left">
-## 🔥 Skills![Captura de tela 2025-01-31 210510](https://github.com/user-attachments/assets/964ad82c-a397-4df4-8d5c-fe656d9cbc01)
+<img src = "https://github.com/user-attachments/assets/964ad82c-a397-4df4-8d5c-fe656d9cbc01" alt = "imagem">
 </p>
 
 
