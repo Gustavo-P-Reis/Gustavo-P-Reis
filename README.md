@@ -48,10 +48,11 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+## 🔥 Skills![Captura de tela 2025-01-31 210510](https://github.com/user-attachments/assets/964ad82c-a397-4df4-8d5c-fe656d9cbc01)
 </p>
 
-## 🔥 Skills
+
+
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
