@@ -43,7 +43,7 @@
 ## Portfolio:
 - [Selecao Personagens Marvel](https://github.com/Gustavo-P-Reis/selecao-personagens-marvel)
 - [Projeto GTA](https://github.com/Gustavo-P-Reis/projeto-gta)
-- [Iceberg Figures](https://github.com/Gustavo-P-Reis/selecao-personagens-marvel)
+- [Iceberg Figures](https://github.com/Gustavo-P-Reis/Iceberg-Figures)
 - [Landing Page](https://github.com/Gustavo-P-Reis/landing-page)
 
 <!-- GIF -->
