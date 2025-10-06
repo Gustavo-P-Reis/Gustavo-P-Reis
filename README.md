@@ -41,6 +41,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
+- [Fundo Mágico - n8n + HTML/CSS](https://gustavo-p-reis.github.io/Fundo-Magico) <p>Projeto experimental criado com auxílio de IA, onde o n8n gera automaticamente o HTML e o CSS de um fundo mágico conforme o pedido do usuário.</p>
 - [Selecao Personagens Marvel](https://github.com/Gustavo-P-Reis/selecao-personagens-marvel)
 - [Projeto GTA](https://github.com/Gustavo-P-Reis/projeto-gta)
 - [Iceberg Figures](https://github.com/Gustavo-P-Reis/Iceberg-Figures)
