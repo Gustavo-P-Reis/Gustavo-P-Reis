@@ -51,8 +51,8 @@
 - [Landing Page](https://github.com/Gustavo-P-Reis/landing-page)
 
 <!-- GIF -->
-<p align="left">
-  <img align="margin: 0 auto" src = "https://github.com/user-attachments/assets/b4907932-a235-49fa-a27e-bba4fb46b09f" alt = "imagem">
+<p margin="0 auto">
+  <img src = "https://github.com/user-attachments/assets/b4907932-a235-49fa-a27e-bba4fb46b09f" alt = "imagem">
 </p>
 
 
