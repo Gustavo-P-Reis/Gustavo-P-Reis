@@ -52,7 +52,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src = "https://github.com/user-attachments/assets/b4907932-a235-49fa-a27e-bba4fb46b09f" alt = "imagem">
+  <img align="margin: 0 auto" src = "https://github.com/user-attachments/assets/b4907932-a235-49fa-a27e-bba4fb46b09f" alt = "imagem">
 </p>
 
 
